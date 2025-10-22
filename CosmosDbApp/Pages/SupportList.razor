@@ -1,0 +1,46 @@
+﻿@page "/support-list"
+@using CosmosDbApp.Models
+@using CosmosDbApp.Services
+@inject ICosmosDbService CosmosService
+
+<h3>Support Henvendelser</h3>
+
+@if (supportMessages == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Navn</th>
+            <th>Email</th>
+            <th>Kategori</th>
+            <th>Oprettet</th>
+            <th>Status</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var message in supportMessages)
+        {
+            <tr>
+                <td>@message.CustomerName</td>
+                <td>@message.Email</td>
+                <td>@message.Category</td>
+                <td>@message.CreatedDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@message.Status</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<SupportMessage> supportMessages = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        supportMessages = await CosmosService.GetSupportMessagesAsync();
+    }
+}

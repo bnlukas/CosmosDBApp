@@ -4,8 +4,8 @@ namespace CosmosDbApp.Models
 {
     public class SupportMessage
     {
-        [Required]
-        public string Id { get; set; }
+        
+        public string Id { get; set; } = string.Empty;
 
         [Required] [StringLength(100)]
         public string CustomerName { get; set; } = string.Empty; 
@@ -34,7 +34,7 @@ namespace CosmosDbApp.Models
         DIY_PARTS, 
         FEATURE_REQUEST,
         FIND_DEALER,
-        REQUEST_CATELOG,
+        REQUEST_CATALOG,
         OTHER
     }
 

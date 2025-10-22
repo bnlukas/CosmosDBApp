@@ -1,7 +1,7 @@
 ﻿using CosmosDbApp.Models;
 namespace CosmosDbApp.Services;
 
-public interface ICosmosDBService
+public interface ICosmosDbService
 {
     Task AddSupportMessageAsync(SupportMessage message);
     Task<List<SupportMessage>> GetSupportMessagesAsync();

@@ -1,10 +1,10 @@
-﻿using CosmosDbApp.Models;
+﻿using CosmosDbApp.Models; 
 using Microsoft.Azure.Cosmos;
 using Microsoft.Extensions.Configuration;
 
 namespace CosmosDbApp.Services
 {
-    public class CosmosDbService : ICosmosDBService
+    public class CosmosDbService : ICosmosDbService
     {
         private readonly Container _container;
 

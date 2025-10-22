@@ -28,16 +28,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/Pages/CreateSupport.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlU3VwcG9ydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/Pages/SupportList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcG9ydExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/_Imports.razor]
