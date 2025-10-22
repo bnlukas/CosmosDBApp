@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q6/JDvbHKaw=",
+  "dgSpecHash": "S9mkI+GCQbc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\CosmosDbApp\\CosmosDbApp.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\lukas\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",

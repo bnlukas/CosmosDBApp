@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\workspace\\newcosmosapp\\CosmosDbApp\\CosmosDbApp.csproj": {}
+    "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\workspace\\newcosmosapp\\CosmosDbApp\\CosmosDbApp.csproj": {
+    "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\workspace\\newcosmosapp\\CosmosDbApp\\CosmosDbApp.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj",
         "projectName": "CosmosDbApp",
-        "projectPath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\CosmosDbApp\\CosmosDbApp.csproj",
+        "projectPath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\CosmosDbApp\\obj\\",
+        "outputPath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
