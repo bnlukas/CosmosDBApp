@@ -1,0 +1,50 @@
+# ASP.NET Core
+appsettings.*.json
+appsettings.json
+!appsettings.example.json
+
+# Blazor
+bin/
+obj/
+*.user
+*.userprefs
+*.aps
+*.bak
+*.cache
+*.ilk
+*.log
+*.ncb
+*.obj
+*.orig
+*.pch
+*.pdb
+*.sql
+*.sqlite
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*~
+*.db
+*.dbmdl
+*.dbproj
+*.dbproj.schemaview
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Azure
+.azure/
