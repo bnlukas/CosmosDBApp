@@ -2,77 +2,82 @@
 using Microsoft.Azure.Cosmos;
 using Microsoft.Extensions.Configuration;
 
-namespace CosmosDbApp.Services;
-
-public class CosmosDBService : ICosmosDbService
+namespace CosmosDbApp.Services
 {
-    private readonly Container _container;
-    private readonly Database _database;
-
-    public CosmosDbService(IConfiguration configuration)
+    public class CosmosDbService : ICosmosDBService
     {
-        var endpoint  = configuration["CosmosDB:Endpoint"];
-        var key =  configuration["CosmosDB:Key"];
-        var databaseName = configuration["CosmosDB:Database"];
-        var containerName = configuration["CosmosDB:Container"];
-        
-        var client = new CosmosClient(endpoint, key);
-        _database = client.GetDatabase(databaseName);
-        _container = _database.GetContainer(containerName);
-        
-    }
+        private readonly Container _container;
 
-    public async Task AddSupportMessageAsync(SupportMessage Message)
-    {
-        if (string.IsNullOrEmpty(Message.Id))
+        public CosmosDbService(IConfiguration configuration)
         {
-            Message.Id = Guid.NewGuid().ToString();
+            // Hent konfiguration fra appsettings.json
+            var endpoint = configuration["CosmosDb:Endpoint"];
+            var key = configuration["CosmosDb:Key"];
+            var databaseName = configuration["CosmosDb:DatabaseName"];
+            var containerName = configuration["CosmosDb:ContainerName"];
+            
+            // Opret CosmosClient - præcis som i Microsofts artikel
+            var client = new CosmosClient(endpoint, key);
+            
+            // Hent database og container - præcis som i Microsofts artikel
+            var database = client.GetDatabase(databaseName);
+            _container = database.GetContainer(containerName);
         }
-        
-        Message.CreatedDate = DateTime.UtcNow;
 
-        await _container.UpsertItemAsync(
-            item: Message,
-            partitionKey: new PartitionKey(Message.Id));
-    }
-
-    public async Task<List<SupportMessage>> GetSupportMessagesAsync()
-    {
-        var query = "SELECT * FROM c ORDER BY c.CreatedDate DESC";
-            
-        var queryDefinition = new QueryDefinition(query);
-        using FeedIterator<SupportMessage> feed = _container.GetItemQueryIterator<SupportMessage>(queryDefinition);
-
-        List<SupportMessage> messages = new();
-            
-        while (feed.HasMoreResults)
+        public async Task AddSupportMessageAsync(SupportMessage message)
         {
-            FeedResponse<SupportMessage> response = await feed.ReadNextAsync();
-            foreach (SupportMessage message in response)
+            if (string.IsNullOrEmpty(message.Id))
             {
-                messages.Add(message);
+                message.Id = Guid.NewGuid().ToString();
+            }
+            
+            message.CreatedDate = DateTime.UtcNow;
+
+            // Brug UpsertItemAsync - præcis som i Microsofts artikel
+            await _container.UpsertItemAsync(
+                item: message,
+                partitionKey: new PartitionKey(message.Id)
+            );
+        }
+
+        public async Task<List<SupportMessage>> GetSupportMessagesAsync()
+        {
+            var query = "SELECT * FROM c ORDER BY c.CreatedDate DESC";
+            
+            // Brug GetItemQueryIterator - præcis som i Microsofts artikel  
+            var queryDefinition = new QueryDefinition(query);
+            using FeedIterator<SupportMessage> feed = _container.GetItemQueryIterator<SupportMessage>(queryDefinition);
+
+            List<SupportMessage> messages = new();
+            
+            // Loop gennem resultater - præcis som i Microsofts artikel
+            while (feed.HasMoreResults)
+            {
+                FeedResponse<SupportMessage> response = await feed.ReadNextAsync();
+                foreach (SupportMessage message in response)
+                {
+                    messages.Add(message);
+                }
+            }
+
+            return messages;
+        }
+
+        public async Task<SupportMessage?> GetSupportMessageByIdAsync(string id)
+        {
+            try
+            {
+                // Brug ReadItemAsync - præcis som i Microsofts artikel
+                ItemResponse<SupportMessage> response = await _container.ReadItemAsync<SupportMessage>(
+                    id: id,
+                    partitionKey: new PartitionKey(id)
+                );
+                return response.Resource;
+            }
+            catch (CosmosException ex) when (ex.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
+                return null;
             }
         }
-
-        return messages;
     }
-
-    public async Task<SupportMessage?> GetSupportMessageByIdAsync(string Id)
-    {
-        try
-        {
-            ItemResponse<SupportMessage> response
-                = await _container.ReadItemAsync<SupportMessage>
-                (id: Id,
-                    partitionKey: new PartitionKey(Id));
-            return response.Resource;
-        }
-        catch (CosmosException ex)
-            when
-                (ex.StatusCode == System.Net.HttpStatusCode.NotFound)
-        {
-            return null;
-        }
-    }
-    
 }
