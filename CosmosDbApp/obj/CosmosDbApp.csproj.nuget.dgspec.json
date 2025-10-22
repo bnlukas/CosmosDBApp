@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj": {}
+    "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\CosmosDbApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj": {
+    "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\CosmosDbApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\CosmosDbApp.csproj",
         "projectName": "CosmosDbApp",
-        "projectPath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\CosmosDbApp.csproj",
+        "projectPath": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\CosmosDbApp.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\workspace\\newcosmosapp\\cosmosdbapp\\obj\\",
+        "outputPath": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,7 +37,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -65,6 +65,14 @@
               "target": "Package",
               "version": "[9.0.10, )",
               "autoReferenced": true
+            },
+            "microsoft.azure.cosmos": {
+              "target": "Package",
+              "version": "[3.54.0, )"
+            },
+            "microsoft.entityframeworkcore.cosmos": {
+              "target": "Package",
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
