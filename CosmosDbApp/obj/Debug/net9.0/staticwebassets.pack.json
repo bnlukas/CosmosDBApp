@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\CosmosDbApp.styles.css"
     },
     {
+      "Id": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.example.json",
+      "PackagePath": "staticwebassets\\appsettings.example.json"
+    },
+    {
       "Id": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },

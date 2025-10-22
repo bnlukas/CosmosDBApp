@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RrgLKI8M9bk4DOAewoBuxGpyp3+kg3QOdjHOAvGC6S4=",
+  "Hash": "MSaeiUkUHNQLvLkZiEFt1uwsRsJWGpLumLnUoGHsznk=",
   "Source": "CosmosDbApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "wj5cnmkgy7",
-      "Integrity": "5InwHqPnEgqISRPoSs/4ou4GlRA0yC617/T9Dq0wg/4=",
+      "Fingerprint": "r8h0l38bqh",
+      "Integrity": "tUeiEh/rg1rbh3XxQAUBBn5iMjot/YuMlbKvlbMxuE4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "kgfa9ndjng",
-      "Integrity": "xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU=",
+      "Fingerprint": "ksnzuuj6ri",
+      "Integrity": "NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\CosmosDbApp.pdb"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "nsaeug41c8",
-      "Integrity": "2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4=",
+      "Fingerprint": "y6zl0of7g6",
+      "Integrity": "lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\webcil\\CosmosDbApp.wasm"
@@ -5876,7 +5876,7 @@
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\5yeocgjby6-wj5cnmkgy7.gz",
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\5yeocgjby6-r8h0l38bqh.gz",
       "SourceId": "CosmosDbApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -5890,8 +5890,8 @@
       "RelatedAsset": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hiasnuhgjt",
-      "Integrity": "OeObTdUIMHMjlwxIKfX5V0Vurb5swVQ2/tcQk/wPoU8=",
+      "Fingerprint": "z65t79ljec",
+      "Integrity": "dQXPqWgKB0ip1zZavcXCmvtqbiQc9f1XVTEZUs5P59s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7493,12 +7493,12 @@
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Azure.Cosmos.Core.wasm"
     },
     {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-bqwxqsum31.gz",
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-gsezjs0wig.gz",
       "SourceId": "CosmosDbApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "appsettings#[.{fingerprint=bqwxqsum31}]?.json.gz",
+      "RelativePath": "appsettings#[.{fingerprint=gsezjs0wig}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7507,8 +7507,8 @@
       "RelatedAsset": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "89i6godc1q",
-      "Integrity": "FB7KOBhlMl28vu64sFgoLiozXFvaffq1aOSoR9OKhnQ=",
+      "Fingerprint": "fn66eizuoa",
+      "Integrity": "K21VP1QzUlhMM7rOvL03H2OzkcJgYDOYAlsp3uu3Wqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.json"
@@ -8016,6 +8016,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\jgryspr4ie-iy5cckk1fy.gz",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.example#[.{fingerprint=iy5cckk1fy}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.example.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2jje18alpj",
+      "Integrity": "XvtfEiQEAzV4ibF+2x+Va0CElghnYdkuDvsi9VukDrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.example.json"
     },
     {
       "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\jl172j273d-24ue7cxcfm.gz",
@@ -10181,12 +10202,12 @@
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.FileSystem.wasm"
     },
     {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-kgfa9ndjng.gz",
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-ksnzuuj6ri.gz",
       "SourceId": "CosmosDbApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/CosmosDbApp#[.{fingerprint=kgfa9ndjng}]!.pdb.gz",
+      "RelativePath": "_framework/CosmosDbApp#[.{fingerprint=ksnzuuj6ri}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -10195,8 +10216,8 @@
       "RelatedAsset": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CosmosDbApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "685i4z04k8",
-      "Integrity": "CiVLSGJsECKLsH5n2jvXYFhP+6cIAMUnMZ/d6Mdteu0=",
+      "Fingerprint": "p67jmiarud",
+      "Integrity": "35al+Shk/Y7320kIUzuoe+dsAW76kjyF0r40dtc94qo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CosmosDbApp.pdb"
@@ -10580,12 +10601,12 @@
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.wasm"
     },
     {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-nsaeug41c8.gz",
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-y6zl0of7g6.gz",
       "SourceId": "CosmosDbApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/CosmosDbApp#[.{fingerprint=nsaeug41c8}]!.wasm.gz",
+      "RelativePath": "_framework/CosmosDbApp#[.{fingerprint=y6zl0of7g6}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -10594,8 +10615,8 @@
       "RelatedAsset": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CosmosDbApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ftmljq30hm",
-      "Integrity": "Pc5+dnDCA1+1UOj07/XzeetJX+Omi4Jflnbn6ZfHHHc=",
+      "Fingerprint": "yxh1l1g583",
+      "Integrity": "6tUdpq0Wc6rtp7KwrmijC1V5iHLv9Rx8bAwyDcMYjgo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CosmosDbApp.wasm"
@@ -10727,6 +10748,27 @@
       "OriginalItemSpec": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CosmosDbApp.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.example.json",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.example#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "settings",
+      "Fingerprint": "iy5cckk1fy",
+      "Integrity": "KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.example.json"
+    },
+    {
       "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.json",
       "SourceId": "CosmosDbApp",
       "SourceType": "Discovered",
@@ -10741,8 +10783,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "settings",
-      "Fingerprint": "bqwxqsum31",
-      "Integrity": "DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0=",
+      "Fingerprint": "gsezjs0wig",
+      "Integrity": "YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\appsettings.json"
@@ -10830,6 +10872,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s35ty4nyc5",
+      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pj5nd1wqec",
+      "Integrity": "KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46ein0sx1k",
+      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0zj4ognzu",
+      "Integrity": "8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37tfw0ft22",
+      "Integrity": "j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hrwsygsryq",
+      "Integrity": "3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pk9g2wxc8p",
+      "Integrity": "h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "CosmosDbApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ft3s53vfgj",
+      "Integrity": "rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -11334,174 +11544,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "s35ty4nyc5",
-      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pj5nd1wqec",
-      "Integrity": "KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "46ein0sx1k",
-      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "v0zj4ognzu",
-      "Integrity": "8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "37tfw0ft22",
-      "Integrity": "j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hrwsygsryq",
-      "Integrity": "3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pk9g2wxc8p",
-      "Integrity": "h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "CosmosDbApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ft3s53vfgj",
-      "Integrity": "rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Identity": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
@@ -12385,7 +12427,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44364"
+          "Value": "44372"
         },
         {
           "Name": "Content-Type",
@@ -12393,11 +12435,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5InwHqPnEgqISRPoSs/4ou4GlRA0yC617/T9Dq0wg/4=\""
+          "Value": "\"tUeiEh/rg1rbh3XxQAUBBn5iMjot/YuMlbKvlbMxuE4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12407,18 +12449,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5InwHqPnEgqISRPoSs/4ou4GlRA0yC617/T9Dq0wg/4="
+          "Value": "sha256-tUeiEh/rg1rbh3XxQAUBBn5iMjot/YuMlbKvlbMxuE4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\5yeocgjby6-wj5cnmkgy7.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\5yeocgjby6-r8h0l38bqh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000072118852"
+          "Quality": "0.000072066878"
         }
       ],
       "ResponseHeaders": [
@@ -12428,15 +12470,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13865"
+          "Value": "13875"
         },
         {
           "Name": "ETag",
-          "Value": "\"OeObTdUIMHMjlwxIKfX5V0Vurb5swVQ2/tcQk/wPoU8=\""
+          "Value": "\"dQXPqWgKB0ip1zZavcXCmvtqbiQc9f1XVTEZUs5P59s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:09:40 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12456,19 +12498,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5InwHqPnEgqISRPoSs/4ou4GlRA0yC617/T9Dq0wg/4=\""
+          "Value": "W/\"tUeiEh/rg1rbh3XxQAUBBn5iMjot/YuMlbKvlbMxuE4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5InwHqPnEgqISRPoSs/4ou4GlRA0yC617/T9Dq0wg/4="
+          "Value": "sha256-tUeiEh/rg1rbh3XxQAUBBn5iMjot/YuMlbKvlbMxuE4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\5yeocgjby6-wj5cnmkgy7.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\5yeocgjby6-r8h0l38bqh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12477,7 +12519,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13865"
+          "Value": "13875"
         },
         {
           "Name": "Content-Type",
@@ -12485,11 +12527,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OeObTdUIMHMjlwxIKfX5V0Vurb5swVQ2/tcQk/wPoU8=\""
+          "Value": "\"dQXPqWgKB0ip1zZavcXCmvtqbiQc9f1XVTEZUs5P59s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:09:40 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12507,7 +12549,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OeObTdUIMHMjlwxIKfX5V0Vurb5swVQ2/tcQk/wPoU8="
+          "Value": "sha256-dQXPqWgKB0ip1zZavcXCmvtqbiQc9f1XVTEZUs5P59s="
         }
       ]
     },
@@ -12649,7 +12691,7 @@
       ]
     },
     {
-      "Route": "_framework/CosmosDbApp.kgfa9ndjng.pdb",
+      "Route": "_framework/CosmosDbApp.ksnzuuj6ri.pdb",
       "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CosmosDbApp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12659,7 +12701,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28600"
+          "Value": "28984"
         },
         {
           "Name": "Content-Type",
@@ -12667,11 +12709,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU=\""
+          "Value": "\"NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:50 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12681,7 +12723,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kgfa9ndjng"
+          "Value": "ksnzuuj6ri"
         },
         {
           "Name": "label",
@@ -12689,18 +12731,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU="
+          "Value": "sha256-NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw="
         }
       ]
     },
     {
-      "Route": "_framework/CosmosDbApp.kgfa9ndjng.pdb",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-kgfa9ndjng.gz",
+      "Route": "_framework/CosmosDbApp.ksnzuuj6ri.pdb",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-ksnzuuj6ri.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000049694380"
+          "Quality": "0.000048531910"
         }
       ],
       "ResponseHeaders": [
@@ -12710,15 +12752,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20122"
+          "Value": "20604"
         },
         {
           "Name": "ETag",
-          "Value": "\"CiVLSGJsECKLsH5n2jvXYFhP+6cIAMUnMZ/d6Mdteu0=\""
+          "Value": "\"35al+Shk/Y7320kIUzuoe+dsAW76kjyF0r40dtc94qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12738,13 +12780,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU=\""
+          "Value": "W/\"NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kgfa9ndjng"
+          "Value": "ksnzuuj6ri"
         },
         {
           "Name": "label",
@@ -12752,13 +12794,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU="
+          "Value": "sha256-NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw="
         }
       ]
     },
     {
-      "Route": "_framework/CosmosDbApp.kgfa9ndjng.pdb.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-kgfa9ndjng.gz",
+      "Route": "_framework/CosmosDbApp.ksnzuuj6ri.pdb.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-ksnzuuj6ri.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12767,7 +12809,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20122"
+          "Value": "20604"
         },
         {
           "Name": "Content-Type",
@@ -12775,11 +12817,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CiVLSGJsECKLsH5n2jvXYFhP+6cIAMUnMZ/d6Mdteu0=\""
+          "Value": "\"35al+Shk/Y7320kIUzuoe+dsAW76kjyF0r40dtc94qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12797,7 +12839,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kgfa9ndjng"
+          "Value": "ksnzuuj6ri"
         },
         {
           "Name": "label",
@@ -12805,168 +12847,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CiVLSGJsECKLsH5n2jvXYFhP+6cIAMUnMZ/d6Mdteu0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CosmosDbApp.nsaeug41c8.wasm",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CosmosDbApp.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32533"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nsaeug41c8"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CosmosDbApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CosmosDbApp.nsaeug41c8.wasm",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-nsaeug41c8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000071423470"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14000"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Pc5+dnDCA1+1UOj07/XzeetJX+Omi4Jflnbn6ZfHHHc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nsaeug41c8"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CosmosDbApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CosmosDbApp.nsaeug41c8.wasm.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-nsaeug41c8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14000"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Pc5+dnDCA1+1UOj07/XzeetJX+Omi4Jflnbn6ZfHHHc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nsaeug41c8"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CosmosDbApp.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Pc5+dnDCA1+1UOj07/XzeetJX+Omi4Jflnbn6ZfHHHc="
+          "Value": "sha256-35al+Shk/Y7320kIUzuoe+dsAW76kjyF0r40dtc94qo="
         }
       ]
     },
@@ -12981,7 +12862,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28600"
+          "Value": "28984"
         },
         {
           "Name": "Content-Type",
@@ -12989,11 +12870,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU=\""
+          "Value": "\"NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:50 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13003,18 +12884,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU="
+          "Value": "sha256-NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw="
         }
       ]
     },
     {
       "Route": "_framework/CosmosDbApp.pdb",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-kgfa9ndjng.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-ksnzuuj6ri.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000049694380"
+          "Quality": "0.000048531910"
         }
       ],
       "ResponseHeaders": [
@@ -13024,15 +12905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20122"
+          "Value": "20604"
         },
         {
           "Name": "ETag",
-          "Value": "\"CiVLSGJsECKLsH5n2jvXYFhP+6cIAMUnMZ/d6Mdteu0=\""
+          "Value": "\"35al+Shk/Y7320kIUzuoe+dsAW76kjyF0r40dtc94qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13052,19 +12933,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU=\""
+          "Value": "W/\"NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xGGMfBrJhdIqTMxtYOX4+vMJL/Euc8tFyuChanhBngU="
+          "Value": "sha256-NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw="
         }
       ]
     },
     {
       "Route": "_framework/CosmosDbApp.pdb.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-kgfa9ndjng.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\xwq4rh5spb-ksnzuuj6ri.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13073,7 +12954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20122"
+          "Value": "20604"
         },
         {
           "Name": "Content-Type",
@@ -13081,11 +12962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CiVLSGJsECKLsH5n2jvXYFhP+6cIAMUnMZ/d6Mdteu0=\""
+          "Value": "\"35al+Shk/Y7320kIUzuoe+dsAW76kjyF0r40dtc94qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13103,7 +12984,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CiVLSGJsECKLsH5n2jvXYFhP+6cIAMUnMZ/d6Mdteu0="
+          "Value": "sha256-35al+Shk/Y7320kIUzuoe+dsAW76kjyF0r40dtc94qo="
         }
       ]
     },
@@ -13118,7 +12999,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32533"
+          "Value": "30485"
         },
         {
           "Name": "Content-Type",
@@ -13126,11 +13007,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4=\""
+          "Value": "\"lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:51 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13140,18 +13021,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4="
+          "Value": "sha256-lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U="
         }
       ]
     },
     {
       "Route": "_framework/CosmosDbApp.wasm",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-nsaeug41c8.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-y6zl0of7g6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000071423470"
+          "Quality": "0.000076335878"
         }
       ],
       "ResponseHeaders": [
@@ -13161,15 +13042,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14000"
+          "Value": "13099"
         },
         {
           "Name": "ETag",
-          "Value": "\"Pc5+dnDCA1+1UOj07/XzeetJX+Omi4Jflnbn6ZfHHHc=\""
+          "Value": "\"6tUdpq0Wc6rtp7KwrmijC1V5iHLv9Rx8bAwyDcMYjgo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13189,19 +13070,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4=\""
+          "Value": "W/\"lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2TMEbN7YpOvJpn5tyY4nMJ/J7rSWWUlOFAKoeMJEog4="
+          "Value": "sha256-lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U="
         }
       ]
     },
     {
       "Route": "_framework/CosmosDbApp.wasm.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-nsaeug41c8.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-y6zl0of7g6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13210,7 +13091,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14000"
+          "Value": "13099"
         },
         {
           "Name": "Content-Type",
@@ -13218,11 +13099,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Pc5+dnDCA1+1UOj07/XzeetJX+Omi4Jflnbn6ZfHHHc=\""
+          "Value": "\"6tUdpq0Wc6rtp7KwrmijC1V5iHLv9Rx8bAwyDcMYjgo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:55:52 GMT"
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,7 +13121,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Pc5+dnDCA1+1UOj07/XzeetJX+Omi4Jflnbn6ZfHHHc="
+          "Value": "sha256-6tUdpq0Wc6rtp7KwrmijC1V5iHLv9Rx8bAwyDcMYjgo="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CosmosDbApp.y6zl0of7g6.wasm",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CosmosDbApp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 17:01:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6zl0of7g6"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CosmosDbApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CosmosDbApp.y6zl0of7g6.wasm",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-y6zl0of7g6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000076335878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13099"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tUdpq0Wc6rtp7KwrmijC1V5iHLv9Rx8bAwyDcMYjgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6zl0of7g6"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CosmosDbApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CosmosDbApp.y6zl0of7g6.wasm.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\zgfe35atxw-y6zl0of7g6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6tUdpq0Wc6rtp7KwrmijC1V5iHLv9Rx8bAwyDcMYjgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 17:01:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6zl0of7g6"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CosmosDbApp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6tUdpq0Wc6rtp7KwrmijC1V5iHLv9Rx8bAwyDcMYjgo="
         }
       ]
     },
@@ -79699,13 +79741,13 @@
       ]
     },
     {
-      "Route": "appsettings.bqwxqsum31.json",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-bqwxqsum31.gz",
+      "Route": "appsettings.example.iy5cckk1fy.json",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\jgryspr4ie-iy5cckk1fy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003906250000"
+          "Quality": "0.005555555556"
         }
       ],
       "ResponseHeaders": [
@@ -79715,15 +79757,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "255"
+          "Value": "179"
         },
         {
           "Name": "ETag",
-          "Value": "\"FB7KOBhlMl28vu64sFgoLiozXFvaffq1aOSoR9OKhnQ=\""
+          "Value": "\"XvtfEiQEAzV4ibF+2x+Va0CElghnYdkuDvsi9VukDrw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:52:45 GMT"
+          "Value": "Wed, 22 Oct 2025 11:18:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79743,13 +79785,311 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0=\""
+          "Value": "W/\"KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqwxqsum31"
+          "Value": "iy5cckk1fy"
+        },
+        {
+          "Name": "label",
+          "Value": "appsettings.example.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.example.iy5cckk1fy.json",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.example.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:18:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iy5cckk1fy"
+        },
+        {
+          "Name": "label",
+          "Value": "appsettings.example.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.example.iy5cckk1fy.json.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\jgryspr4ie-iy5cckk1fy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XvtfEiQEAzV4ibF+2x+Va0CElghnYdkuDvsi9VukDrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:18:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iy5cckk1fy"
+        },
+        {
+          "Name": "label",
+          "Value": "appsettings.example.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XvtfEiQEAzV4ibF+2x+Va0CElghnYdkuDvsi9VukDrw="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.example.json",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\jgryspr4ie-iy5cckk1fy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005555555556"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XvtfEiQEAzV4ibF+2x+Va0CElghnYdkuDvsi9VukDrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:18:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.example.json",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.example.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:18:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KoWTcdZft8dK+wpCm43flT7T1sdGwIZD3p7EFKPAI/c="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.example.json.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\jgryspr4ie-iy5cckk1fy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XvtfEiQEAzV4ibF+2x+Va0CElghnYdkuDvsi9VukDrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:18:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XvtfEiQEAzV4ibF+2x+Va0CElghnYdkuDvsi9VukDrw="
+        }
+      ]
+    },
+    {
+      "Route": "appsettings.gsezjs0wig.json",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-gsezjs0wig.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K21VP1QzUlhMM7rOvL03H2OzkcJgYDOYAlsp3uu3Wqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 17:08:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gsezjs0wig"
         },
         {
           "Name": "label",
@@ -79757,12 +80097,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0="
+          "Value": "sha256-YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc="
         }
       ]
     },
     {
-      "Route": "appsettings.bqwxqsum31.json",
+      "Route": "appsettings.gsezjs0wig.json",
       "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\appsettings.json",
       "Selectors": [],
       "ResponseHeaders": [
@@ -79772,7 +80112,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "305"
+          "Value": "218"
         },
         {
           "Name": "Content-Type",
@@ -79780,11 +80120,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0=\""
+          "Value": "\"YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:52:45 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79794,7 +80134,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqwxqsum31"
+          "Value": "gsezjs0wig"
         },
         {
           "Name": "label",
@@ -79802,13 +80142,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0="
+          "Value": "sha256-YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc="
         }
       ]
     },
     {
-      "Route": "appsettings.bqwxqsum31.json.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-bqwxqsum31.gz",
+      "Route": "appsettings.gsezjs0wig.json.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-gsezjs0wig.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -79817,7 +80157,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "255"
+          "Value": "249"
         },
         {
           "Name": "Content-Type",
@@ -79825,11 +80165,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FB7KOBhlMl28vu64sFgoLiozXFvaffq1aOSoR9OKhnQ=\""
+          "Value": "\"K21VP1QzUlhMM7rOvL03H2OzkcJgYDOYAlsp3uu3Wqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:52:45 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79847,7 +80187,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bqwxqsum31"
+          "Value": "gsezjs0wig"
         },
         {
           "Name": "label",
@@ -79855,18 +80195,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FB7KOBhlMl28vu64sFgoLiozXFvaffq1aOSoR9OKhnQ="
+          "Value": "sha256-K21VP1QzUlhMM7rOvL03H2OzkcJgYDOYAlsp3uu3Wqk="
         }
       ]
     },
     {
       "Route": "appsettings.json",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-bqwxqsum31.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-gsezjs0wig.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003906250000"
+          "Quality": "0.004000000000"
         }
       ],
       "ResponseHeaders": [
@@ -79876,15 +80216,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "255"
+          "Value": "249"
         },
         {
           "Name": "ETag",
-          "Value": "\"FB7KOBhlMl28vu64sFgoLiozXFvaffq1aOSoR9OKhnQ=\""
+          "Value": "\"K21VP1QzUlhMM7rOvL03H2OzkcJgYDOYAlsp3uu3Wqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:52:45 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79904,13 +80244,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0=\""
+          "Value": "W/\"YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0="
+          "Value": "sha256-YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc="
         }
       ]
     },
@@ -79925,7 +80265,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "305"
+          "Value": "218"
         },
         {
           "Name": "Content-Type",
@@ -79933,11 +80273,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0=\""
+          "Value": "\"YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:52:45 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79947,13 +80287,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DTIPP3KQWBShXYUXZLNalewBYrlKjrDvjt5jyzQ89W0="
+          "Value": "sha256-YOebVIILNfv/o+NzqXwgJn2tvQoeuVEo1t1muD+XiOc="
         }
       ]
     },
     {
       "Route": "appsettings.json.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-bqwxqsum31.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\h4lg14x6yt-gsezjs0wig.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -79962,7 +80302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "255"
+          "Value": "249"
         },
         {
           "Name": "Content-Type",
@@ -79970,11 +80310,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FB7KOBhlMl28vu64sFgoLiozXFvaffq1aOSoR9OKhnQ=\""
+          "Value": "\"K21VP1QzUlhMM7rOvL03H2OzkcJgYDOYAlsp3uu3Wqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 10:52:45 GMT"
+          "Value": "Wed, 22 Oct 2025 17:08:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -79992,7 +80332,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FB7KOBhlMl28vu64sFgoLiozXFvaffq1aOSoR9OKhnQ="
+          "Value": "sha256-K21VP1QzUlhMM7rOvL03H2OzkcJgYDOYAlsp3uu3Wqk="
         }
       ]
     },
@@ -81349,6 +81689,2390 @@
         {
           "Name": "integrity",
           "Value": "sha256-pQcHcd3Fejw4VMP3d5wl3hHs08wuYydAdoGu+Pxt4bw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030073379"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33251"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008694896"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115009"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008694896"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115009"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pj5nd1wqec"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pj5nd1wqec"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pj5nd1wqec"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032295569"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30963"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032295569"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30963"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010892297"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91807"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010892297"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91807"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0zj4ognzu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0zj4ognzu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0zj4ognzu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030209655"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33101"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37tfw0ft22"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37tfw0ft22"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37tfw0ft22"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030209655"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33101"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008699132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114953"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hrwsygsryq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hrwsygsryq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hrwsygsryq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000008699132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114953"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032271598"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30986"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010904769"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91702"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft3s53vfgj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft3s53vfgj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft3s53vfgj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010904769"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91702"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032271598"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30986"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pk9g2wxc8p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pk9g2wxc8p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pk9g2wxc8p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030073379"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33251"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "281046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
+      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s35ty4nyc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU="
         }
       ]
     },
@@ -88501,2390 +91225,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-QAnDcxiLhrclwEVeKtd/GREdZNbXO2rZP5agorcS5EM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030073379"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "281046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008694896"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115009"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115009"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008694896"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115009"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pj5nd1wqec"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679755"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pj5nd1wqec"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KzNVR3p7UZGba94dnCtlc6jXjK5urSPiZ/eNnKTmDkw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\yahqkiskz7-pj5nd1wqec.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115009"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pj5nd1wqec"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032295569"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30963"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "46ein0sx1k"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "46ein0sx1k"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.46ein0sx1k.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30963"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "46ein0sx1k"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032295569"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30963"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\n5249u1yof-46ein0sx1k.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30963"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NWIxwejcHtJ5yvljTypwFQBimL4GY/TpmkwWCoiPk+o="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010892297"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91807"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91807"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010892297"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91807"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0zj4ognzu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0zj4ognzu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8SM4U2NQpCLGTQLW5D/x3qSTwxVq2CP+GXYc3V1WwFs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\4xffkq9ukd-v0zj4ognzu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91807"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0zj4ognzu"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+BDBQp6fX0jhehydJj3yEmXwPsq4ccmpRwJadVX8HUA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030209655"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33101"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280259"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33101"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030209655"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33101"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280259"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\159v4bwui3-37tfw0ft22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33101"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Tl7d+IXzMoFjiGRivA39XpNjGWA6jMfITy87ywcah6c="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008699132"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114953"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hrwsygsryq"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679615"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hrwsygsryq"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hrwsygsryq"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000008699132"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114953"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "679615"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3bYWUiiVYMZfv2wq5JnXIsHlQKgSKs/VcRivgjgZ1ho="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\b5bj1niwqg-hrwsygsryq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "114953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xwBA3wRtW8i96gsexkmrLvL85Ad0ueCN6i7I23oFCMU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032271598"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30986"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232911"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010904769"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91702"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ft3s53vfgj"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589087"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ft3s53vfgj"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91702"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ft3s53vfgj"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30986"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000010904769"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91702"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "589087"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTzXlnepcb/vgFAiB+U7ODQAfOlJLfM3gY6IU7eIANk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\egktgvuj56-ft3s53vfgj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "91702"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mVddgYoZfee39UGvBjujrPfkX4g9o5fJQgtcRjDKhDc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000032271598"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30986"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pk9g2wxc8p"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232911"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pk9g2wxc8p"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-h5lE7Nm8SkeIpBHHYxN99spP3VuGFKl5NZgsocil7zk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.pk9g2wxc8p.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\ta7gvkoe4e-pk9g2wxc8p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30986"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pk9g2wxc8p"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030073379"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "281046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
-      "AssetFile": "C:\\Users\\lukas\\workspace\\newCosmosApp\\CosmosDbApp\\obj\\Debug\\net9.0\\compressed\\70qod9uzby-s35ty4nyc5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Oct 2025 07:45:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU="
         }
       ]
     },
