@@ -44,19 +44,33 @@ Roter Nøgle (Hvis kompromitteret, kan ske..)
 
 IBAS-Support-System/
 ├── Models/
+
 │   └── SupportMessage.cs          # Datamodel med validering
+
 ├── Services/
+
 │   ├── ICosmosDbService.cs        # Interface
+
 │   ├── CosmosDbService.cs         # CosmosDB integration
+
 │   └── MockCosmosDbService.cs     # Mock service til development
+
 ├── Pages/
+
 │   ├── Home.razor                 # Velkomstside
+
 │   ├── CreateSupport.razor        # Opret henvendelse
+
 │   └── SupportList.razor          # Vis henvendelser
+
 ├── Shared/
+
 │   └── NavMenu.razor              # Navigation
+
 └── wwwroot/
+
     ├── appsettings.json           # Konfiguration (local)
+    
     └── appsettings.example.json   # Eksempel konfig
 
 # Valg af MockService til aflevering
