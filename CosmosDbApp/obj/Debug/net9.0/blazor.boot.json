@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CosmosDbApp",
   "resources": {
-    "hash": "sha256-oZF9vfdj/uIJFbsEsQGszSP1vSuyab10iT71xZwdPWw=",
+    "hash": "sha256-4LXZfTcm5EhfYSq6B8H0OcwuXvJ+wfAO6ZjJSgYPwyA=",
     "fingerprinting": {
       "Azure.Core.ltf0pljmuu.wasm": "Azure.Core.wasm",
       "Azure.Identity.cgucsoigqc.wasm": "Azure.Identity.wasm",
@@ -27,15 +27,15 @@
       "Microsoft.Extensions.Configuration.Binder.oft8zow1u0.wasm": "Microsoft.Extensions.Configuration.Binder.wasm",
       "Microsoft.Extensions.Configuration.FileExtensions.omar8pgxm8.wasm": "Microsoft.Extensions.Configuration.FileExtensions.wasm",
       "Microsoft.Extensions.Configuration.Json.fanayclfog.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
-      "Microsoft.Extensions.DependencyInjection.1u3eeol6ve.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
-      "Microsoft.Extensions.DependencyInjection.Abstractions.tjpnkvn3q9.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "Microsoft.Extensions.DependencyInjection.1atse8zt8a.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.3bbrnxm7sg.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Abstractions.tt0muuqqmn.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.59vcbg751z.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.2yicidzffc.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
-      "Microsoft.Extensions.Logging.4m4jo20ji4.wasm": "Microsoft.Extensions.Logging.wasm",
-      "Microsoft.Extensions.Logging.Abstractions.4483uwth6m.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
-      "Microsoft.Extensions.Options.hse9gm9r95.wasm": "Microsoft.Extensions.Options.wasm",
-      "Microsoft.Extensions.Primitives.3pkwbmnqmy.wasm": "Microsoft.Extensions.Primitives.wasm",
+      "Microsoft.Extensions.Logging.5o6wz2mzus.wasm": "Microsoft.Extensions.Logging.wasm",
+      "Microsoft.Extensions.Logging.Abstractions.7og7zl867u.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
+      "Microsoft.Extensions.Options.8smb4p45bs.wasm": "Microsoft.Extensions.Options.wasm",
+      "Microsoft.Extensions.Primitives.xtp97am9lf.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.Identity.Client.2js58q19a7.wasm": "Microsoft.Identity.Client.wasm",
       "Microsoft.Identity.Client.Extensions.Msal.9lqqq7vlql.wasm": "Microsoft.Identity.Client.Extensions.Msal.wasm",
       "Microsoft.IdentityModel.Abstractions.ywtvda1e4c.wasm": "Microsoft.IdentityModel.Abstractions.wasm",
@@ -226,8 +226,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "CosmosDbApp.y6zl0of7g6.wasm": "CosmosDbApp.wasm",
-      "CosmosDbApp.ksnzuuj6ri.pdb": "CosmosDbApp.pdb"
+      "CosmosDbApp.gi6hefmy3c.wasm": "CosmosDbApp.wasm",
+      "CosmosDbApp.w7g7jxcw99.pdb": "CosmosDbApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.l4ptthxatg.js": "sha256-ddUN4+taa/Qv7Mr8mLpunJO+0Xw3ViOqBvedhe57/hA="
@@ -272,15 +272,15 @@
       "Microsoft.Extensions.Configuration.Binder.oft8zow1u0.wasm": "sha256-/BVr1LLZIYqgXdQ90iUr1/D2t3vcprltsUruXsJ0cfg=",
       "Microsoft.Extensions.Configuration.FileExtensions.omar8pgxm8.wasm": "sha256-kLp3lJ/jaypQHlhwZ1ccNpA1mznbO7ZCRggiSgwTDxA=",
       "Microsoft.Extensions.Configuration.Json.fanayclfog.wasm": "sha256-mUl3VJY/sWn3oalZsbJtAX0ys2vuOX4YjaWci+6oPLk=",
-      "Microsoft.Extensions.DependencyInjection.1u3eeol6ve.wasm": "sha256-6QiZ6ttmBzkOYTrIhx5vn32K1RnFzuIj2hQ1vU9Z2SI=",
-      "Microsoft.Extensions.DependencyInjection.Abstractions.tjpnkvn3q9.wasm": "sha256-535Ri4bDpwShlFxqaB7dD5Yl2+IgEZg9lvbdZA/lyw4=",
+      "Microsoft.Extensions.DependencyInjection.1atse8zt8a.wasm": "sha256-xx6DLp9k8mmtm7YNo3zwePJzf7/6EOSsbXy1Vkf9kWo=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.3bbrnxm7sg.wasm": "sha256-AdNUfaUzAO74cwhiNUTtR4QaVzjc8pfQGkSwzoVFfnA=",
       "Microsoft.Extensions.FileProviders.Abstractions.tt0muuqqmn.wasm": "sha256-seML1glu/8xJ0JaRcSpRgQ7wW0g8i72Sum99/XhpPWw=",
       "Microsoft.Extensions.FileProviders.Physical.59vcbg751z.wasm": "sha256-OQTbszHktQl1I2mibzSoYWUNGQ46quSVaaXFSzx8VSo=",
       "Microsoft.Extensions.FileSystemGlobbing.2yicidzffc.wasm": "sha256-Fn8LsxCCCi6atjmT4wiHxzIguot1IfDqnI32whxxnzE=",
-      "Microsoft.Extensions.Logging.4m4jo20ji4.wasm": "sha256-HL4q4QdxykEypsK6yHSuKFDnFazCabrP4+wPtq0DGLw=",
-      "Microsoft.Extensions.Logging.Abstractions.4483uwth6m.wasm": "sha256-1LlcwgP4uVIn3ZSnDyj7sHNFtk4bzbDVotS012VUwh4=",
-      "Microsoft.Extensions.Options.hse9gm9r95.wasm": "sha256-ISvQeTODuLxU6ohxJBLyLb4qQ2JoQRUQitBOE9577Ps=",
-      "Microsoft.Extensions.Primitives.3pkwbmnqmy.wasm": "sha256-OdxJw7jdILDZ3gOpGiCsOP1rr13RNw5EjKRvXzmr5Lg=",
+      "Microsoft.Extensions.Logging.5o6wz2mzus.wasm": "sha256-xVQZFK8MRLhi0c9Mv+HuHN9R3/VmN1gwo67nqlm6jag=",
+      "Microsoft.Extensions.Logging.Abstractions.7og7zl867u.wasm": "sha256-J8eiHzpK9eVrn1CTBWjieq94wtYtW1DTXod7A3IcZ/k=",
+      "Microsoft.Extensions.Options.8smb4p45bs.wasm": "sha256-6K+4B1GEf5Gt32XBHniGt3r3Fn28PPQFeNn1KYSOtn8=",
+      "Microsoft.Extensions.Primitives.xtp97am9lf.wasm": "sha256-+6WuKokS33+LxRRsQK8HjiOppzZD5+UCJuOWSPChjBc=",
       "Microsoft.Identity.Client.2js58q19a7.wasm": "sha256-UuC0Ui9x5qTU19MIrc42IfY0bnEe6VysTUhXPzzmBWY=",
       "Microsoft.Identity.Client.Extensions.Msal.9lqqq7vlql.wasm": "sha256-HQ9ks8xvvl9ewZJMeiMHdDve76D6MehHujejnvjQ00A=",
       "Microsoft.IdentityModel.Abstractions.ywtvda1e4c.wasm": "sha256-zjEXw82eqpT6mBpJoKGq7h9owR8a9SXQEKdXAtxbxCA=",
@@ -462,10 +462,10 @@
       "WindowsBase.ahs9krftg4.wasm": "sha256-bgi2FHdT0ABsUP1yKQQ2AP8qfo1V/bS/4cJFE4OUHX8=",
       "mscorlib.k5iaovx9v7.wasm": "sha256-mEFLDERlY1HMNQHzh68xOPawXvI48O1fHW9PbfXugb4=",
       "netstandard.6sr1qvn64m.wasm": "sha256-Gpf+qEqCYaCB6zqI5sNPIurnfpwRtfcWksgf3CW6mHE=",
-      "CosmosDbApp.y6zl0of7g6.wasm": "sha256-lkrjHFIFb4fE6/fQVe63PYdWteJo2OG5jVVztnVXA7U="
+      "CosmosDbApp.gi6hefmy3c.wasm": "sha256-yHrqOZplV62QeSpFxvLzikazfepNjYnTdtwx8lTyDHA="
     },
     "pdb": {
-      "CosmosDbApp.ksnzuuj6ri.pdb": "sha256-NCnAbgKsIhY0G10EdLb33z8Kmn2N9nghYyJRkRoGayw="
+      "CosmosDbApp.w7g7jxcw99.pdb": "sha256-JNvqTTVkkEj/yVbhty2sKiJEL++Y+QQA4jEEqJs+LP4="
     }
   },
   "cacheBootResources": true,

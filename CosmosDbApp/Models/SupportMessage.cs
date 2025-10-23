@@ -7,13 +7,16 @@ namespace CosmosDbApp.Models
         
         public string Id { get; set; } = string.Empty;
 
-        [Required] [StringLength(100)]
+        [Required (ErrorMessage = "Your name, thanks")] 
+        [StringLength(100, ErrorMessage = "To long, unfortunately")]
         public string CustomerName { get; set; } = string.Empty; 
         
-        [Required]
+        [Required(ErrorMessage = "Your email, thanks")]
+        [EmailAddress(ErrorMessage = "Please enter a valid email address")]
         public string Email { get; set; } = string.Empty;
         
-        [Required] 
+        [Required]
+        [Phone(ErrorMessage = "Please enter a vaild phone number")]
         public string PhoneNumber { get; set; } = string.Empty;
         
         [Required]
