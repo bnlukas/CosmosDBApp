@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CosmosDbApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1df1a00b0bac02b653fc4539b2014bd98ca718c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25abe7143705b4f7f53e173cf6cef0f7b8cc7011")]
 [assembly: System.Reflection.AssemblyProductAttribute("CosmosDbApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CosmosDbApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

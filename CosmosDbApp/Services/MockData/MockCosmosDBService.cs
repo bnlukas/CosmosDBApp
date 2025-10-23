@@ -1,4 +1,4 @@
-﻿/*using CosmosDbApp.Models;
+﻿using CosmosDbApp.Models;
 
 namespace CosmosDbApp.Services
 {
@@ -62,4 +62,4 @@ namespace CosmosDbApp.Services
             return Task.FromResult(message);
         }
     }
-} */
+} 

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CosmosDbApp",
   "resources": {
-    "hash": "sha256-KlSx7lvL55wQLYC/ngGGKZ+rK3WWedUEhxyIna97vwQ=",
+    "hash": "sha256-tCWLW4caNMLnLT22FQQlRS2HC2aT6YetIPxyrAVNZp0=",
     "fingerprinting": {
       "Azure.Core.ltf0pljmuu.wasm": "Azure.Core.wasm",
       "Azure.Identity.cgucsoigqc.wasm": "Azure.Identity.wasm",
@@ -226,8 +226,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "CosmosDbApp.l76p46dika.wasm": "CosmosDbApp.wasm",
-      "CosmosDbApp.m6vygt1cd2.pdb": "CosmosDbApp.pdb"
+      "CosmosDbApp.tudy8j9v9k.wasm": "CosmosDbApp.wasm",
+      "CosmosDbApp.aw36w856te.pdb": "CosmosDbApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.l4ptthxatg.js": "sha256-ddUN4+taa/Qv7Mr8mLpunJO+0Xw3ViOqBvedhe57/hA="
@@ -462,10 +462,10 @@
       "WindowsBase.ahs9krftg4.wasm": "sha256-bgi2FHdT0ABsUP1yKQQ2AP8qfo1V/bS/4cJFE4OUHX8=",
       "mscorlib.k5iaovx9v7.wasm": "sha256-mEFLDERlY1HMNQHzh68xOPawXvI48O1fHW9PbfXugb4=",
       "netstandard.6sr1qvn64m.wasm": "sha256-Gpf+qEqCYaCB6zqI5sNPIurnfpwRtfcWksgf3CW6mHE=",
-      "CosmosDbApp.l76p46dika.wasm": "sha256-sZcoC1yWz+R4O929Y4PGT41kxJ43rqB8tsZDX0Ho4WE="
+      "CosmosDbApp.tudy8j9v9k.wasm": "sha256-WwHWLhoILIqs32AvBJXeoesL1qjH2ttGAuEivaKakCs="
     },
     "pdb": {
-      "CosmosDbApp.m6vygt1cd2.pdb": "sha256-XoYWnKj0i6cXcfm3rKASwfT6o6AoV2XxVKuiyVheld8="
+      "CosmosDbApp.aw36w856te.pdb": "sha256-xpbcw2F8Lj3HGGCTCIvLGMtNpvyOOSfnYh5/7XjWhqo="
     }
   },
   "cacheBootResources": true,
