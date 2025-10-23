@@ -69,9 +69,9 @@ IBAS-Support-System/
 
 └── wwwroot/
 
-    ├── appsettings.json           # Konfiguration (local)
+ ├── appsettings.json           # Konfiguration (local)
     
-    └── appsettings.example.json   # Eksempel konfig
+ └── appsettings.example.json   # Eksempel konfig
 
 # Valg af MockService til aflevering
 - Pga. CORS issues med Azure CosmosDB under development, bruger den afleverede version MockCosmosDbService som:
