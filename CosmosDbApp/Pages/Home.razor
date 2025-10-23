@@ -1,5 +1,64 @@
-﻿<h3>Home</h3>
+﻿@page "/"
 
-@code {
-    
-}
+<div class="container mt-5">
+    <div class="jumbotron bg-primary text-white p-5 rounded">
+        <h1 class="display-4">🏍 Velkommen til IBAS Support</h1>
+        <p class="lead">Din platform til håndtering af kundesupport henvendelser</p>
+        <hr class="my-4">
+        <p>Opret og administrer supporthenvendelser for IBAS cykler med Azure CosmosDB.</p>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Opret Henvendelse</h5>
+                    <p class="card-text">Opret en ny supporthenvendelse for en IBAS cykel</p>
+                    <a href="/create-support" class="btn btn-primary">Opret nu</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">📋 Se Henvendelser</h5>
+                    <p class="card-text">Se alle eksisterende supporthenvendelser</p>
+                    <a href="/support-list" class="btn btn-outline-primary">Se liste</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">⚡ Cloud Power</h5>
+                    <p class="card-text">Drevet af Azure CosmosDB og Blazor WebAssembly</p>
+                    <small class="text-muted">Høj ydeevne & global skalerbarhed</small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5>🚀 Om IBAS Support System</h5>
+                </div>
+                <div class="card-body">
+                    <p>Dette system giver IBAS mulighed for at:</p>
+                    <ul>
+                        <li>Modtage og kategorisere kundehenvendelser</li>
+                        <li>Tracke status på hver henvendelse</li>
+                        <li>Gemme data sikkert i Azure Cloud</li>
+                        <li>Skalere globalt med CosmosDB</li>
+                    </ul>
+                    <p class="mb-0">
+                        <strong>Teknologier:</strong> Blazor WebAssembly • Azure CosmosDB • .NET 9.0
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

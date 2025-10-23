@@ -2,8 +2,6 @@ C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_fram
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\Azure.Identity.cgucsoigqc.wasm
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.w7g7jxcw99.pdb
-C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.gi6hefmy3c.wasm
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.l4ptthxatg.js
@@ -438,7 +436,6 @@ C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_fram
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.Watcher.76s9ix1gfx.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebSockets.dfk0ddeg9d.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.3afv8h6ska.wasm.gz
-C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.w7g7jxcw99.pdb.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.gvrabkwtt5.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Specialized.eah3wxej14.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Json.n7lprrhjvf.wasm.gz
@@ -452,7 +449,6 @@ C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_fram
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Globalization.Calendars.oxuv3t4xaq.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebSockets.Client.q2em5kypdd.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.6mx0f3scm8.wasm.gz
-C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.gi6hefmy3c.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Drawing.ylisjr29ri.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.m1bil1ufmx.wasm.gz
@@ -1197,9 +1193,6 @@ C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\2l
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\kvj3m7jnab-tjcz0u77k5.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\i1wne5owek-tptq2av103.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\rxqnjv0lps-lfu7j35m59.gz
-C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\zgfe35atxw-gi6hefmy3c.gz
-C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\xwq4rh5spb-w7g7jxcw99.gz
-C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\5yeocgjby6-6b60uzglrn.gz
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1214,3 +1207,10 @@ C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\CosmosDbApp.d
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\refint\CosmosDbApp.dll
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\CosmosDbApp.pdb
 C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\ref\CosmosDbApp.dll
+C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.my7h3zzwh8.pdb
+C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.3b9z0ayc99.wasm
+C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.my7h3zzwh8.pdb.gz
+C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\bin\Debug\net9.0\wwwroot\_framework\CosmosDbApp.3b9z0ayc99.wasm.gz
+C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\zgfe35atxw-3b9z0ayc99.gz
+C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\xwq4rh5spb-my7h3zzwh8.gz
+C:\Users\lukas\workspace\newCosmosApp\CosmosDbApp\obj\Debug\net9.0\compressed\5yeocgjby6-znscop0tc9.gz

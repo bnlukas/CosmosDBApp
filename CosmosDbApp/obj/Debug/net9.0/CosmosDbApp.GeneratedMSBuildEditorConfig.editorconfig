@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlU3VwcG9ydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lukas/workspace/newCosmosApp/CosmosDbApp/Pages/SupportList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcG9ydExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
