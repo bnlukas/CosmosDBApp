@@ -29,8 +29,7 @@ az cosmosdb sql database create --account-name <fint navn> --database-name Suppo
 
 **Opret Container**
 
-az cosmosdb sql container create --account-name ibas-support-lukas001 --database-name SupportDatabase --name SupportMessages --partition-key-path "/id" --throughput 400 --resource-group ibas-support-rg
-Hent Connection String
+az cosmosdb sql container create --account-name <fint navn> --database-name <databsename> --name SupportMessages --partition-key-path "/id" --throughput 400 --resource-group ibas-support-rg
 
 **az cosmosdb keys list** --name <fint navn> --resource-group ibas-support-rg --type connection-strings
 Tilføj CORS for Localhost
