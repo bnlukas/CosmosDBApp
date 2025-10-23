@@ -31,8 +31,15 @@ az cosmosdb sql database create --account-name <fint navn> --database-name Suppo
 
 az cosmosdb sql container create --account-name <fint navn> --database-name <databsename> --name SupportMessages --partition-key-path "/id" --throughput 400 --resource-group ibas-support-rg
 
+**Hent Conncetion string** 
+
+az cosmosdb keys list --name <fint navn> --resource-group ibas-support-rg --type connection-strings
+
+**Tilføj CORS Til localhost** 
+
+az cosmosdb update --name <fint navn> --resource-group ibas-support-rg --cors-rules "http://localhost:5215"
+
 **az cosmosdb keys list** --name <fint navn> --resource-group ibas-support-rg --type connection-strings
-Tilføj CORS for Localhost
 
 **az cosmosdb update** --name <fint navn> --resource-group ibas-support-rg --cors-rules "http://localhost:5215"
 Roter Nøgle (Hvis kompromitteret, kan ske..)
@@ -85,9 +92,6 @@ Backend: .NET 9.0
 Database: Azure CosmosDB (NoSQL)
 
 Cloud: Azure Cloud Services
-
-Version Control: Git & GitHub
-
 
 *Udviklet som del af Cloud Computing - M4.04 Afleveringsopgave*
 
