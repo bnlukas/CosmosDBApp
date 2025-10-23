@@ -41,9 +41,6 @@ az cosmosdb update --name <fint navn> --resource-group ibas-support-rg --cors-ru
 
 **az cosmosdb keys list** --name <fint navn> --resource-group ibas-support-rg --type connection-strings
 
-**az cosmosdb update** --name <fint navn> --resource-group ibas-support-rg --cors-rules "http://localhost:5215"
-Roter Nøgle (Hvis kompromitteret, kan ske..)
-
 **az cosmosdb keys regenerate** --name <fint navn> --resource-group ibas-support-rg --key-kind primary
 
 # Projektstruktur
