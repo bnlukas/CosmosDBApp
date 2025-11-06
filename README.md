@@ -4,7 +4,7 @@ En Blazor WebAssembly applikation til håndtering af kundesupport henvendelser f
 
 ## Projektbeskrivelse
 
-Dette projekt er en cloud-baseret webapp der giver IBAS mulighed for at modtage, kategorisere og administrere kundesupport henvendelser. Systemet er bygget med .NET Blazor WebAssembly og Azure CosmosDB for global skalerbarhed.
+Dette projekt er en cloud-baseret webapp der giver IBAS mulighed for at modtage, kategorisere og administrere kundesupport henvendelser. Systemet er bygget med .NET Blazor WebAssembly og Azure CosmosDB.
 
 ### Funktioner
 - Opret supporthenvendelser med validering
