@@ -22,17 +22,17 @@ jobs:
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
-        working-directory: CosmosDbApp  # 👈 TILFØJ DENNE LINJE!
+        working-directory: CosmosDbApp
 
       - name: dotnet publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
-        working-directory: CosmosDbApp  # 👈 TILFØJ DENNE LINJE!
+        run: dotnet publish -c Release -o ${{env.GITHUB_WORKSPACE}}/publish 
+        working-directory: CosmosDbApp
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: ${{env.DOTNET_ROOT}}/myapp
+          path: ${{env.GITHUB_WORKSPACE}}/publish  
 
   deploy:
     runs-on: ubuntu-latest
@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ibas-support-rg-14428'
           slot-name: 'Production'
-          package: ${{env.DOTNET_ROOT}}/myapp  
+          package: .  
